@@ -1,0 +1,619 @@
+Supply Chain - Logistics Data
+11
+5,500,000+
+9
+Traffic Data
+ 
+970,000+
+Yes
+Trucking Fleet Data
+ 
+470,000+
+Yes
+Aviation Data
+ 
+430,000+
+Yes
+Freight Data
+ 
+410,000+
+Yes
+Trade Data
+ 
+550,000+
+Yes
+Road Data
+ 
+128,000+
+Yes
+Maritime Data
+ 
+787,000+
+Yes
+Demand Data
+ 
+970,000
+Yes
+Shipment Price Data
+ 
+200,000+
+Yes
+Fleet Data
+ 
+410,000+
+ 
+Truck Toll Mileage Index
+ 
+125,000+
+ 
+Geo Data
+6
+3,600,000+
+1
+Company Location Data
+ 
+530,000+
+ 
+Satellite Data
+ 
+970,000+
+Yes
+Map Data
+ 
+630,000+
+ 
+Population Data
+ 
+20,000+
+ 
+Sight Data
+ 
+880,000+
+ 
+Mobility Data
+
+Skip to content
+0e673d_c69ac9b115c448aca5e116c53b795b7c_mv2 (1)
+ 
+Real world data sets with rapid integration
+Data science is all about gaining insights. Dealing with insufficient and incomplete data is slowing down your progress. Stop the time killer and start using Sharcx.datasets today.
+
+Python
+1.
+2.
+3.
+4.
+dataset = sharcx.datasets('material-price')
+            .attributes(['name', 'currency', 'price', 'date'])
+            .where('date', between('2021-01-01', '2021-12-31')).limit(credits(10))
+# dataset contains 2000 records, costs 10 credits
+Boost your data science with easy to use, high-quality, external data
+Sharcx offers numerous topic based data sources for your data science projects. Skip months of research finding the right data source. Sharcx.datasets topics are ready to use without the need for data engineering and cleaning of the data. Our data sets are pre-processed by data scientists for data scientists.
+
+ 
+
+Improve your
+data science models
+
+Save time on data engineering. Topics are already pre-processed by real data scientists and ready to use. Only high-quality data sets.
+
+
+Easy to use
+ 
+
+Save yourself the hassle of integrating different data sets, data types and structures into your project. Sharcx.datasets provides easy to integrate Python and R wrappers for almost effortless integration.
+
+
+Save months of research
+ 
+
+Get in-depth data about 11+ mio. data sets curated across 85+ topics. Get live data from over 20+ continuous sources.
+
+
+Available data sets
+Topic
+Industries
+Verticals
+Countries
+Curated data sets
+Live data sets
+Supply Chain - Logistics Data
+11
+5,500,000+
+9
+Traffic Data
+ 
+970,000+
+Yes
+Trucking Fleet Data
+ 
+470,000+
+Yes
+Aviation Data
+ 
+430,000+
+Yes
+Freight Data
+ 
+410,000+
+Yes
+Trade Data
+ 
+550,000+
+Yes
+Road Data
+ 
+128,000+
+Yes
+Maritime Data
+ 
+787,000+
+Yes
+Demand Data
+ 
+970,000
+Yes
+Shipment Price Data
+ 
+200,000+
+Yes
+Fleet Data
+ 
+410,000+
+ 
+Truck Toll Mileage Index
+ 
+125,000+
+ 
+Geo Data
+6
+3,600,000+
+1
+Company Location Data
+ 
+530,000+
+ 
+Satellite Data
+ 
+970,000+
+Yes
+Map Data
+ 
+630,000+
+ 
+Population Data
+ 
+20,000+
+ 
+Sight Data
+ 
+880,000+
+ 
+Mobility Data
+ 
+550,000+
+ 
+Commercial Data
+9
+430,000+
+2
+Consumer Indices
+ 
+48,000+
+Yes
+Retail Transactional Data
+ 
+68,000+
+ 
+Ecommerce Transactional Data
+ 
+86,000+
+ 
+Customer Feedback Data
+ 
+57,000+
+ 
+Product Data
+ 
+67,000+
+ 
+Sentiment Analysis Data
+ 
+64,000+
+ 
+Social Listening Data
+ 
+64,000+
+Yes
+General Transactional Data
+ 
+24,000+
+ 
+Product Related Data
+ 
+5,200+
+ 
+Macroeconomic Data
+17
+94,000+
+1
+Gross Domestic Product Data worldwide
+ 
+5,200+
+ 
+Wholesale and retail trade data
+ 
+3,700+
+ 
+Accommodation and food service activities
+ 
+5,000+
+ 
+Building Permits
+ 
+3,100+
+ 
+Construction Industry Data
+ 
+8,000+
+ 
+Consumer Prices
+ 
+5,400+
+ 
+Employment Data
+ 
+2,100+
+ 
+Foreign Trade Data
+ 
+3,400+
+ 
+Gross fixed capital formation
+ 
+9,600+
+ 
+Import Prices
+ 
+8,100+
+ 
+Labour Costs
+ 
+7,200+
+ 
+New Orders
+ 
+240+
+ 
+Private Consumption
+ 
+6,400+
+ 
+Producer Prices
+ 
+9,300+
+ 
+Production Index
+ 
+5,500+
+ 
+Retail Trade
+ 
+5,100+
+ 
+Unemployment Rate
+ 
+5,300+
+ 
+Enterprise Data
+9
+325,000+
+2
+Data on country from which enterprises are controlled
+ 
+39,000+
+ 
+E-Commerce Sales
+ 
+36,000+
+ 
+E-Commerce Purchases
+ 
+27,000+
+ 
+Contacts Data
+ 
+79,000+
+ 
+Customer Feedback Data
+ 
+49,000+
+ 
+Salary Data
+ 
+34,000+
+ 
+Stock Market Data
+ 
+38,000+
+Yes
+Ownership Data
+ 
+420+
+Yes
+Employee Data
+ 
+20,000+
+ 
+Environmental Data
+8
+450,000+
+5
+CO2 Emissions per capita
+ 
+25,000+
+ 
+Import Data
+ 
+62,000+
+ 
+Weather Data
+ 
+47,000+
+Yes
+Wildfire Data
+ 
+100,000+
+Yes
+Water Data
+ 
+48,000+
+Yes
+Earthquake Data
+ 
+36,000+
+Yes
+Land Data
+ 
+90,000+
+ 
+Climate Data
+ 
+49,000+
+Yes
+Real Estate Data
+5
+320,000+
+2
+Market Development Data
+ 
+73,000+
+ 
+Price Development Data
+ 
+87,000+
+ 
+Demand Development Data
+ 
+71,000+
+Yes
+Real-Time Data
+ 
+64,000+
+Yes
+Global Real Estate Data
+ 
+25,000+
+ 
+Health Data
+7
+5,600+
+ 
+Anonymized electronic health records
+ 
+790+
+ 
+Claims Data
+ 
+960+
+ 
+Patient Disease registries
+ 
+920+
+ 
+Health Survey Data
+ 
+870+
+ 
+Clinical Trials Data
+ 
+680+
+ 
+Insurance Data
+ 
+930+
+ 
+Health spent data by country
+ 
+450+
+ 
+Credit Rating Data
+5
+24,000+
+ 
+Company Credit Ratings
+ 
+3,600+
+ 
+Country Credit Ratings
+ 
+5,100+
+ 
+Credit Ratings by Industry
+ 
+5,400+
+ 
+World wide debt data
+ 
+2,400+
+ 
+Corporate loan data
+ 
+7,200+
+ 
+Raw Material Data
+8
+290,000+
+4
+Raw material availability by raw material
+ 
+3,600+
+Yes
+Raw material price development
+ 
+26,000+
+Yes
+Raw material delivery development
+ 
+1,200+
+ 
+Raw material demand development
+ 
+31,000+
+Yes
+Raw material live data
+ 
+80,000+
+Yes
+Raw material sustainability data
+ 
+48,000+
+ 
+Raw material production data
+ 
+66,000+
+ 
+Raw material sourcing data
+ 
+32,000+
+ 
+What data are you looking for?
+Tell us more about the data relevant to you. We will let you know if this topic is available.
+Name*
+name
+Email*
+Please enter your business email address.
+email
+Industry
+Your industry
+Topics of interest*
+Please provide a list of interesting data topics relevant to you or your work. This will help us to provide the most valuable topics to you when Sharcx.datasets launches.
+
+I hereby agree that my data entered in this contact form will be processed to answer my request and to send me information about the Sharcx products and services and I accept the Sharcx privacy policy.  You may unsubscribe from these communications at any time.*
+About Sharcx
+Sharcx offers a B2B customer experience platform based on machine learning services which allows companies to improve customer satisfaction by increasing their service reliability in terms of delivery, product quality, pricing, sample management and issue resolution. Headquartered in Germany, the SaaS provider serves its customers on five continents with 3,000 end users in more than 100 countries worldwide. Sharcx is a member of Germany's platform for Artificial Intelligence.
+ 
+"During building our own data science models we learned that getting external data is tedious, unreliable and often low quality and at the same time you have to work with hundreds of providers to get what you actually need. Our new product Sharcx.datasets is solving that problem for you. Let us do the tedious work and you can focus on data science." Philip Roeder, COO
+
+ 
+ 
+ 
+ 
+0e673d_c69ac9b115c448aca5e116c53b795b7c_mv2 (1)
+Chemovator GmbH, Sharcx
+Industriestraße 35
+68169 - Mannheim, Germany
+
+A Venture Team of Chemovator
+
+Imprint 
+Disclaimer
+Privacy Policy 
+2022 sharcx® is a registered trademark
+
+ssuing network :JCB
+Card Number :3549235493054914
+Name :Tara Labove
+Address :482 Dhanmondi
+Country :Bangladesh
+CVV :494
+
+
+
+ Card Type :Voyager
+Card Number :8699905685960030
+CVV :795
+Expires :4/23
+Name :Iracema Pancha
+Address :194 Cavaye Place
+Country :United States of America
+Card Type :Mastercard
+Card Number :2720268173173038
+CVV :029
+Expires :10/23
+Name :Eilwen Kandari
+Address :367 Acorn Street
+Country :United States of America
+Card Type :Diners
+Card Number :3001738739194536
+CVV :057
+Expires :7/28
+Name :Randi Fijalkowski
+Address :245 Belmont Road
+Country :United States of America
+Card Type :enRoute
+Card Number :2149525532959305
+CVV :129
+Expires :9/24
+Name :Linn Flak
+Address :450 Pachir Wa Agam
+Country :Afghanistan
+Card Type :enRoute
+Card Number :2149008091751116
+CVV :925
+Expires :8/28
+Name :Ed Hughes
+Address :618 Boleyn Cottages
+Country :United States of America
+Card Type :enRoute
+Card Number :2149885234458935
+CVV :110
+Expires :3/25
+Name :Ma Fiek
+Address :757 Saxon Road
+Country :United States of America
+Card Type :enRoute
+Card Number :2149941290495053
+CVV :065
+Expires :11/27
+Name :Gitel Youngblood
+Address :292 Andrews Crosse
+Country :United States of America
+Card Type :enRoute
+Card Number :2014420429360779
+CVV :751
+Expires :7/25
+Name :Eino Barad
+Address :184 Leopoldstadt
+Country :Austria
+Card Type :Amex
+Card Number :344521788080737
+CVV :985
+Expires :3/23
+Name :Dae Akita
+Address :165 Rue du Moulin
+Country :France
+Card Type :Amex
+Card Number :371520976130516
+CVV :051
+Expires :1/28
+Name :Mae Alpay
+Address :217 Rue de Lumiere des toiles
+Country :Andorra
+
+550,000+
+ 
+Commercial Data
+9
+430,000+
+2
